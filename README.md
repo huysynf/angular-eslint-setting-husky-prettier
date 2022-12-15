@@ -163,3 +163,11 @@ npx  lint-staged
 
 ```
 
+# if error run
+
+```bash 
+npm i --save-dev typescript @typescript-eslint/eslint-plugin@5.6.0 @typescript-eslint/parser@5.6.0 eslint@7.32.0
+
+
+
+```
